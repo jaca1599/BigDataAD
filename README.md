@@ -20,6 +20,6 @@ The goal was to identify molecular markers and brain regions affected in AD, and
 
 **Installing**
 - Instal Matlab before you download all the files
-- Download the Files-BigData2025_Week2-7
+- Download the all the files of Data1 and Data2
 - Download FullScript.m
 - Run the script in Matlab
